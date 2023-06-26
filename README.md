@@ -1,6 +1,9 @@
 ## Hola a todos, soy Salvador Hilares 👋
 
-### Desarrollador full-Stack más orientado al Back-End por los inmensos desafíos que proporcionan. Uno de ellos es que tengo el conocimiento para escoger la mejor estructura de datos para la obtención, ordenación o búsqueda. Por consiguiente podemos reducir el tiempo de respuesta de un responsive y dar una mejor experiencia al usuario. Actualmente me dedico✨
+### Desarrollador full-Stack más orientado al Back-End por los inmensos desafíos que proporcionan. Uno de ellos es que tengo el conocimiento para escoger la mejor estructura de datos para la obtención, ordenación o búsqueda. Por consiguiente podemos reducir el tiempo de respuesta de un responsive y dar una mejor experiencia al usuario.✨
+
+### 🌱 Actualmente estoy aprendiendo multiples tecnologías para implementar en las páginas web que creo. Esto me sigue impacta y maravilla porque sé que tengo mucho más que conocer y aprender.
+### 🔭 
 <!--
 **SalvadorHilares/SalvadorHilares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
