@@ -3,7 +3,7 @@
 ### Desarrollador Full-Stack más orientado al Back-End por los inmensos desafíos que proporcionan. Uno de ellos es que tengo el conocimiento para escoger la mejor estructura de datos para la obtención, ordenación o búsqueda. Por consiguiente podemos reducir el tiempo de respuesta de un responsive y dar una mejor experiencia al usuario.✨
 
 #### 🌱 Actualmente estoy aprendiendo multiples tecnologías para implementar en las páginas web que creo. Esto me sigue impacta y maravilla porque sé que tengo mucho más que conocer y aprender.
-#### 🔭 **Mis ambiciones son *mejorar* mi código, *aprender* nuevas tecnologías y *aportar* a este mundo maravilloso que es la programación con mis conocimientos**.
+#### 🔭 **Mis ambiciones son *mejorar* el código que realizo, *aprender* nuevas tecnologías y *aportar* a este mundo maravilloso que es la programación con mis conocimientos**.
 #### 📫 Las tecnologías principales que domino en la actualidad son:
 - Node JS
 - Python
